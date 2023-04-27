@@ -8,8 +8,8 @@ Algorithms used,
  * Logistic Regression
  
 Group Member Details
- * IT20246778 - N.M.M.C. Navaratne
- 
  * IT20085858 - Swikkin M.L
+ 
+ * IT20246778 - N.M.M.C. Navaratne
  
  * IT20252540 - D.M.R.B. Daswaththa
